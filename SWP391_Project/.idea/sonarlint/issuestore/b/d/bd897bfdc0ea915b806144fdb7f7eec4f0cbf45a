@@ -1,0 +1,50 @@
+
+˜	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾àÿûúÿÿÿÿ8Î‰ğø€2J$087c1279-cf38-4254-b2be-3581602b6765
+™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÄ™Õûÿÿÿÿ8Î‰ğø€2J$3c1f3108-943a-4b54-b933-72958d3c0b35
+“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ƒË8Î‰ğø€2J$73136bd8-5d24-4b52-9ca6-5519a4aa65fd
+	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô‰ğø€2J$79c6f67d-add3-4cac-b591-df4b45a34d02
+	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô‰ğø€2J$9f8bc62c-fd7c-406c-af79-826557994103
+	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô‰ğø€2J$f146f9bc-5f37-4d8d-8f66-0ec5f4cd4ab1
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Õ‰ğø€2J$b67a31c3-c1bf-41cd-84dc-9fdc929b0de7
+Ê
+java:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş³‚”ûÿÿÿÿ8ş˜×ì€2J$b5cde4cf-dc99-4d29-a113-0a74c96d81ec
+^
+java:S3626_"Remove this redundant jump.(ûÁİ…8İ‰ğø€2J$0670ffb9-cde1-48d2-b3bd-12df18afd4c6
+–
+java:S19895"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÕŞÉ8Ş‰ğø€2J$a0ced92c-66f8-4fa9-9db1-fac9acd815db
+m	java:S106<"+Replace this use of System.out by a logger.(µş‰Ö8õ‰ğø€2J$4d77e53c-aafb-49dd-9fa2-b693b1085f18
+‰
+java:S1989B"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ß‰ğø€2J$5da5e882-14fb-4925-8a17-4f55aa6db484
+‰
+java:S1989K"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8á‰ğø€2J$594d7edd-cfbd-45e2-8c39-6905efeebf0f
+‰
+java:S1989T"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8â‰ğø€2J$7bb1583e-797e-486a-ada9-90b33821de67
+‰
+java:S1989]"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ã‰ğø€2J$14d4660f-b13d-438b-b560-14879d7eb4a0
+›
+java:S2139q"XEither log this exception and handle it, or rethrow it with some contextual information.(É®£8è‰ğø€2J$b6acced2-89ea-4c1c-8dd2-5dc677b1fa8e
+|
+java:S3457r"4Lambda should be used to defer string concatenation.(ÆÂ¸®şÿÿÿÿ8é‰ğø€2J$c918eb32-4bc9-444e-8c29-39fcebe3f52d
+œ
+java:S2139ƒ"XEither log this exception and handle it, or rethrow it with some contextual information.(É®£8ë‰ğø€2J$1ead6a77-4aeb-47f1-98af-412da9e65a8f
+}
+java:S3457„"4Lambda should be used to defer string concatenation.(¡§È®şÿÿÿÿ8ë‰ğø€2J$b3b96dc9-0f7f-4e6e-95fd-3fa6d97b6546
+¡
+java:S2139‹"XEither log this exception and handle it, or rethrow it with some contextual information.(Û™ÓÏûÿÿÿÿ8ì‰ğø€2J$01b43730-f86a-4744-8844-3485a20e0543
+½
+java:S1130•"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(‚™ã‰8î‰ğø€2J$23fd9079-9032-45ae-b388-eb28f16fd4ef
+½
+java:S1130Ÿ"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(·”ÅÕ8ò‰ğø€2J$d725fd99-ccc9-4edb-8281-5fe6e2906b37
+n	java:S106¨"+Replace this use of System.out by a logger.(¼ÚÕÖ8ù‰ğø€2J$68805409-aeda-4057-9887-7b5712b1389d
+s	java:S106º"+Replace this use of System.out by a logger.(æÑ„Êıÿÿÿÿ8€ˆöø€2J$51212555-07bd-49c5-a937-aaa831b438a9
+z
+java:S1128
+"2Remove this unused import 'com.model.DAO.CartDAO'.(ÛèÁÿÿÿÿÿ8ô¿Òù€2J$34967e10-8806-43d8-ae44-d08f8518044f
+y
+java:S1128"6Remove this unused import 'com.model.DAO.CategoryDAO'.(ÊÎ‚Æ8õ¿Òù€2J$3c2e4cb6-697b-43cb-ba8c-40dd9355af9e
+}
+java:S1128"5Remove this unused import 'com.model.DAO.ProductDAO'.(‚Ïç±ÿÿÿÿÿ8õ¿Òù€2J$48b3019d-ec41-438e-8d24-5bfbebbf2e27
+q
+java:S1128".Remove this unused import 'com.model.Product'.(Äÿñ8õ¿Òù€2J$9a6c3663-8876-48ba-a602-21d8566cc126
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8õ¿Òù€2J$390198a4-209c-4ba9-8c97-cd2554b797c8

@@ -1,0 +1,35 @@
+
+™	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ΤÿΜωÿÿÿÿ8°¨οβƒ2J$bf5f10b6-6f68-4dc0-88f1-b21cd027dbe1
+™	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ΤÿΜωÿÿÿÿ8°¨οβƒ2J$0af5bdcb-f48c-4bf0-b6cc-efa11cd74e41
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(μ Ζσύÿÿÿÿ8°¨οβƒ2J$ed260c5d-a2c4-4602-b706-25c16d80f38d
+”
+java:S1192"KDefine a constant instead of duplicating this literal " ROWS ONLY" 4 times.(Υ΅όÿÿÿÿ8µ¨οβƒ2J$444a9006-d94d-4b37-837c-c113d6a412ec
+‰
+java:S1192£"FDefine a constant instead of duplicating this literal "gmail" 5 times.(°Λ•`8µ¨οβƒ2J$91b018e1-e255-467c-9511-b9d52d5ac796
+”
+java:S1192¥"KDefine a constant instead of duplicating this literal "first_name" 5 times.(Ò°®†ώÿÿÿÿ8µ¨οβƒ2J$f633a8fe-5931-47df-9fdc-c63119a9ac68
+¥
+java:S1192"\Define a constant instead of duplicating this literal " OFFSET ? ROWS FETCH FIRST " 4 times.(Υ΅όÿÿÿÿ8µ¨οβƒ2J$1bed666b-acf7-471b-854c-a19b04b68fa4
+
+java:S1192"LDefine a constant instead of duplicating this literal "customer_id" 8 times.(ξΛΦ“8µ¨οβƒ2J$a8a93a6c-e5ea-4905-80b2-df843dc44708
+’
+java:S1192Ά"IDefine a constant instead of duplicating this literal "username" 5 times.(ƒ‚ΉΏύÿÿÿÿ8µ¨οβƒ2J$64311bcf-d59c-4107-9186-f9820047a53e
+“
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ΠΐΆ8µ¨οβƒ2J$73a70286-6438-423a-9700-ca525bc0fa25
+b
+java:S6905"Don't use the query "SELECT *".(ο†Λ8Ή¨οβƒ2J$96a18afd-889b-49bc-8bea-58c15837ee37
+a
+java:S6905K"Don't use the query "SELECT *".(›…Ζb8Ε¨οβƒ2J$ac33f428-ab32-4a72-ae00-1266421101f5
+ƒ	java:S125Z"<This block of commented-out lines of code should be removed.(¬ηιύÿÿÿÿ8»¨οβƒ2J$e03f8f50-71e2-4b3b-8752-5bde9a07b9e4
+b
+java:S6905n"Don't use the query "SELECT *".(΄«8»¨οβƒ2J$4c36eab3-b6d3-48df-a2e2-1afecd78c2a0
+~	java:S125"<This block of commented-out lines of code should be removed.(ψΧ8»¨οβƒ2J$40888f97-3cef-4cf2-b541-6a7d4f778c5f
+„	java:S125π"<This block of commented-out lines of code should be removed.(‰ΖΙωÿÿÿÿ8Υγƒ2J$5065ffb4-140f-4ae3-af67-92f559ef6cb7
+c
+java:S6905›"Don't use the query "SELECT *".(‚ΟΓ8Δ¨οβƒ2J$2354d8cb-f0df-4ef8-97d5-dd51cd4854e7
+c
+java:S6905½"Don't use the query "SELECT *".(ο†Λ8΅“πβƒ2J$d6296c56-489a-4694-b21a-e2037e5e6f54
+n	java:S106"+Replace this use of System.out by a logger.(Β–‘φ8Θ¨οβƒ2J$77305a78-9239-4c5a-a403-ad44d5409dba
+„	java:S125—"<This block of commented-out lines of code should be removed.(…ΗΩÿÿÿÿÿ8Θ¨οβƒ2J$a62930f7-9ad5-464a-bd1a-d88c4d411eb0
+S
+java:S1128"6Remove this unused import 'jdk.jshell.execution.Util'.(ΎΥο8γƒΫ¬‰2

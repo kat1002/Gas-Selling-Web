@@ -1,0 +1,7 @@
+
+m	java:S106$"+Replace this use of System.out by a logger.(Ú¿úû8àôñ€ƒ2J$3cf41db7-4ffd-4e8f-8b0f-28d965296121
+›
+java:S1989'"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×Ž©ëÿÿÿÿÿ8àôñ€ƒ2J$b6718ec5-efc9-4821-a551-139dae6fcc83
+¤
+java:S1989+"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÖÞÜŽ8àôñ€ƒ2J$16a40dbe-c022-4396-a263-b792c2b1ed47
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(¶‚èÁùÿÿÿÿ8áôñ€ƒ2J$9cacf017-91ac-4f2f-9bac-e5585c487c98

@@ -1,0 +1,27 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8İÿšœƒ2J$62315c30-3cae-46c4-94d0-061e3932f435
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8İÿšœƒ2J$3484898c-082e-4ee1-8e5c-63ed7b805925
+	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8İÿšœƒ2J$ec3d3a9a-8a5b-4b06-ab63-e4ec443b3fd9
+”
+java:S1192A"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªŞÃı8İÿšœƒ2J$c3274db3-c001-4910-96b0-3213ecad5cfd
+ˆ
+java:S1192B"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ç›Ï8İÿšœƒ2J$13b17ce6-e9b2-480b-942e-21a9f73a5dad
+}
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó8àÿšœƒ2J$cc28e413-f6c0-459c-ae6a-71ef59f31be5
+‰
+java:S1989"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8áÿšœƒ2J$cc04c491-98e0-4436-8338-96f9934edf26
+‰
+java:S1989%"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8áÿšœƒ2J$cc2bc45d-2e7a-4ec2-9f74-b7589e8eaf9f
+}
+java:S1161*":Add the "@Override" annotation above this method signature(°€İá8âÿšœƒ2J$890ae131-2ff4-4c57-8881-28bb69130ebf
+m	java:S106-"+Replace this use of System.out by a logger.(»Ä‡á8âÿšœƒ2J$bd1bf8e1-58e5-4217-9251-325911f81eb4
+‰
+java:S19893"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8âÿšœƒ2J$6c9b1e14-9fae-4584-8049-f5ebbcc3ab8e
+±
+java:S11309"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¦ï‰…8ãÿšœƒ2J$52e228d0-d10b-4a3e-97c7-d21ea9823659
+¼
+java:S11309"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¦ï‰…8ãÿšœƒ2J$41765f0e-83e1-4211-8a48-a92aed53cdc0
+m	java:S106="+Replace this use of System.out by a logger.(ê¾ú®8ãÿšœƒ2J$097f65b8-1bb1-4b62-9b28-bfde5bae71f6
+~	java:S125d"<This block of commented-out lines of code should be removed.(¨úòÔ8çÿšœƒ2J$96499599-4f0e-40fe-859b-9680309d92a1
+~	java:S125~"<This block of commented-out lines of code should be removed.(©åİ£8éÿšœƒ2J$e45786d9-4de9-4f00-8e21-6d419c27e26e
+s	java:S106›"+Replace this use of System.out by a logger.(ÒÂ‡ùıÿÿÿÿ8ëÿšœƒ2J$2ae5de11-2c6e-40d8-8e52-bff0cb1080c4

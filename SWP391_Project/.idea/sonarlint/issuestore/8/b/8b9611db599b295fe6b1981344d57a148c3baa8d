@@ -1,0 +1,44 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóıÿÿÿÿ8ÄÀ¬‰2
+m
+java:S1192Ş"ODefine a constant instead of duplicating this literal "payment_method" 3 times.(²†Åü8—ÄÀ¬‰2
+g
+java:S1192¹"IDefine a constant instead of duplicating this literal "order_id" 5 times.(•Ç³“8˜ÄÀ¬‰2
+o
+java:S1192Ü"LDefine a constant instead of duplicating this literal "total_price" 3 times.(·ç–Áÿÿÿÿÿ8˜ÄÀ¬‰2
+i
+java:S1192İ"KDefine a constant instead of duplicating this literal "order_date" 3 times.(åáÀ™8˜ÄÀ¬‰2
+i
+java:S1192Û"KDefine a constant instead of duplicating this literal "voucher_id" 3 times.(š‘ø8˜ÄÀ¬‰2
+i
+java:S1192Ú"LDefine a constant instead of duplicating this literal "customer_id" 3 times.(¥ĞÖ{8˜ÄÀ¬‰2
+m
+java:S2095ı"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8˜ÄÀ¬‰2
+m
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8˜ÄÀ¬‰2
+m
+java:S2095´"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8˜ÄÀ¬‰2
+m
+java:S2095«"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8˜ÄÀ¬‰2
+W	java:S125"<This block of commented-out lines of code should be removed.(ˆ»r8£ÄÀ¬‰2
+v
+java:S2139Œ"XEither log this exception and handle it, or rethrow it with some contextual information.(‹Ò‡Ç8¨ÄÀ¬‰2
+v
+java:S2139¼"XEither log this exception and handle it, or rethrow it with some contextual information.(‹Ò‡Ç8¬ÄÀ¬‰2
+W
+java:S3457¾"4Lambda should be used to defer string concatenation.(ôùÎ˜şÿÿÿÿ8¬ÄÀ¬‰2
+=
+java:S6905Ñ"Don't use the query "SELECT *".(¸Ãıö8¼ÄÀ¬‰2
+H	java:S106Ô"+Replace this use of System.out by a logger.(äÉáş8¼ÄÀ¬‰2
+H	java:S106â"+Replace this use of System.out by a logger.(ü·€ú8¾ÄÀ¬‰2
+M	java:S106ğ"+Replace this use of System.out by a logger.(×ú‘Ñùÿÿÿÿ8¾ÄÀ¬‰2
+=
+java:S6905ü"Don't use the query "SELECT *".(¹×Ê8¿ÄÀ¬‰2
+=
+java:S6905ª"Don't use the query "SELECT *".(ÂÊ“Å8ÃÄÀ¬‰2
+F	java:S108·")Either remove or fill this block of code.(É®£8ÅÄÀ¬‰2
+F	java:S108Ã")Either remove or fill this block of code.(É®£8ÅÄÀ¬‰2
+X
+java:S1128"6Remove this unused import 'com.controller.WebManager'.(Ôë«éúÿÿÿÿ8ÆÄÀ¬‰2
+H
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÆÄÀ¬‰2

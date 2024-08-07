@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóýÿÿÿÿ8°ˆðø€2
+d
+java:S1192"HDefine a constant instead of duplicating this literal "cart_id" 3 times.(¦ýâB8µˆðø€2
+d
+java:S1192"HDefine a constant instead of duplicating this literal "user_id" 3 times.(¦ýâB8µˆðø€2
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À­ñÂùÿÿÿÿ8¶ˆðø€2
+<
+java:S6905"Don't use the query "SELECT *".(üìÔô8Âˆðø€2
+A
+java:S6905N"Don't use the query "SELECT *".(íèÑ•øÿÿÿÿ8Ìˆðø€2

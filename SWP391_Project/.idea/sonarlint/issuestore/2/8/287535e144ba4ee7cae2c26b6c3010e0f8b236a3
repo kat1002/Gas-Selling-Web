@@ -1,0 +1,21 @@
+
+Œ
+java:S22591"DA "NullPointerException" could be thrown; "action" is nullable here.(èÑ¿ãûÿÿÿÿ8·Ã¸‚2J$8bab41c8-ab00-4684-8e5f-bceb2857c0f5
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÕĞâ·‚2J$833284c9-7b32-4216-b1c5-4ea8cc19a6c7
+€
+java:S1854*"8Remove this useless assignment to local variable "view".(™íûÿÿÿÿ8ØĞâ·‚2J$a3f5fbec-55be-49f0-95ef-5bcd6cf562aa
+q
+java:S1481*")Remove this unused "view" local variable.(™íûÿÿÿÿ8ÚĞâ·‚2J$7344e5ad-2499-4b5b-bf76-f547f56633c2
+k	java:S108-")Either remove or fill this block of code.( ”Œç8¦†¸‚2J$167bdb5e-0ff6-4b4f-9e44-ef65c1d7b827
+¯
+java:S19892"lHandle the following exceptions that could be thrown by "GetCustomerDetails": IOException, ServletException.(ÿÈ‚ß8ÛĞâ·‚2J$98b701a9-a262-4e84-9dc2-324cbf95162f
+¡
+java:S19896"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(˜—ÑÄüÿÿÿÿ8ÛĞâ·‚2J$d7246eeb-6611-410b-9208-e1d8df802f38
+¡
+java:S19897"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¡ûîÔıÿÿÿÿ8ÜĞâ·‚2J$9a9a5f7b-ae24-4284-9fe8-bdf76078e255
+˜
+java:S1989D"PHandle the following exception that could be thrown by "getWriter": IOException.(ôğĞÿÿÿÿÿ8àĞâ·‚2J$a63d5135-f4ac-496b-b1ba-24279376df9e
+	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‹™M8àĞâ·‚2J$4b6c5cdc-3515-49cd-87f5-aeeb496fd1e0
+ƒ	java:S125q"<This block of commented-out lines of code should be removed.(¶‚èÁùÿÿÿÿ8åĞâ·‚2J$b00b0e3c-5238-483f-a6e2-9ce8ecfa2519
+s
+java:S1128	"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8®†¸‚2J$3f638b18-0154-461f-b2ca-dd1633dc7da5

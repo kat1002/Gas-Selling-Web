@@ -1,0 +1,19 @@
+
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ô©¬þÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŠæ¦
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úá‡ë
+C	java:S108*")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+E
+java:S11721"/Remove this unused method parameter "response".(úá‡ë
+V	java:S1254"<This block of commented-out lines of code should be removed.(‚ÓëŒÿÿÿÿÿ
+~
+java:S1989E"hHandle the following exceptions that could be thrown by "processRequest": ServletException, IOException.(‘ŸÑ
+~
+java:S1989S"hHandle the following exceptions that could be thrown by "processRequest": ServletException, IOException.(‘ŸÑ
+F
+java:S1128
+"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ
+R
+java:S1128"=Remove this unused import 'jakarta.servlet.http.HttpSession'.(Çê°
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

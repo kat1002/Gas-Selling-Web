@@ -1,0 +1,29 @@
+
+Š
+java:S1192G"IDefine a constant instead of duplicating this literal "loginerr" 3 times.(Àƒæ¾øÿÿÿÿJ$6d3b5d29-8e40-4733-931c-cb914628b277
+…
+java:S1192D"IDefine a constant instead of duplicating this literal "password" 3 times.(ÀÜÜüJ$7fc9719f-4533-4bb9-9894-31544958974d
+Œ
+java:S1192H"PDefine a constant instead of duplicating this literal "admin_login.jsp" 4 times.(Ó«§ÄJ$a99d6f47-df3c-4b96-8192-f2151b080b2a
+Š
+java:S1192C"IDefine a constant instead of duplicating this literal "username" 3 times.(Ö¡Œ‰ûÿÿÿÿJ$109a0bce-a342-42fc-8e31-4b514fd6cd91
+n
+java:S1135("2Complete the task associated to this TODO comment.(¢§‰J$310339dd-29b5-4e4e-aa09-f1ace1fde6fd
+
+java:S1989H"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ó«§ÄJ$e42a9e43-1aec-45f2-a2f6-b1565a680f80
+
+java:S1989N"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ó«§ÄJ$a86b2cf0-df85-4df2-aa28-ce92a834f615
+
+java:S1989T"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ó«§ÄJ$42bb5ceb-da0e-4296-bc38-c6dc78b0569d
+|	java:S125W"<This block of commented-out lines of code should be removed.(À÷ä§şÿÿÿÿJ$18e61569-3ba9-4dba-bf21-08c61739f29b
+Z
+java:S2441_"=Make "Manager" serializable or don't store it in the session.(“ ĞÎ8ºè³„ƒ2
+›
+java:S1989a"SHandle the following exception that could be thrown by "sendRedirect": IOException.(íãùÈıÿÿÿÿ8…Ÿüƒƒ2J$21ad8fd6-bb21-45dc-8bf7-b9d75264ec9d
+ƒ	java:S125`"<This block of commented-out lines of code should be removed.(ÊÒßŸùÿÿÿÿ8…Ÿüƒƒ2J$80a6b3e9-be92-4321-9d73-519b4caedeae
+
+java:S1989t"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ó«§ÄJ$60348d2d-3bd4-4d97-a40f-0a14d32de6ed
+S
+java:S1128"6Remove this unused import 'com.model.DAO.CustomerDAO'.(ıøŒ‚8½è³„ƒ2
+P
+java:S1128	"3Remove this unused import 'com.utils.UtilHashPass'.(´ä•8½è³„ƒ2

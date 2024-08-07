@@ -1,0 +1,26 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóıÿÿÿÿ8²‡ğø€2J$6ebcd314-76b8-4e26-9355-2e9efe219cba
+	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½‡ğø€2J$4c639037-c417-4b44-886e-7f81fcefbfea
+
+java:S1192H"HDefine a constant instead of duplicating this literal "cart_id" 3 times.(ÂÒ—÷üÿÿÿÿ8Ä‡ğø€2J$884269e3-4f36-43d4-837b-60e138e3a186
+“
+java:S1192H"KDefine a constant instead of duplicating this literal "product_id" 3 times.(ÂÒ—÷üÿÿÿÿ8Ä‡ğø€2J$1ef48208-a137-4654-b181-e1ec674a7f5d
+Œ
+java:S1192!"IDefine a constant instead of duplicating this literal "quantity" 4 times.(øÜ™”8Ã‡ğø€2J$5074c4ee-07c7-4eb6-a0e3-aca923e03b6a
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸øÁ\8Ä‡ğø€2J$9a1b69b2-e053-4d70-a935-e150148d7a62
+s
+java:S1144>"0Remove this unused private "getCartItem" method.(¶şš8Å‡ğø€2J$ff907af2-f6ce-4263-bbd4-f5a7d92c9266
+b
+java:S6905?"Don't use the query "SELECT *".(Ï¤Ã8Ñ‡ğø€2J$db794b80-9b5b-4fda-bf08-b5cf28964b7c
+|
+java:S3457M"4Lambda should be used to defer string concatenation.(ğèÀ¨ûÿÿÿÿ8Ò‡ğø€2J$ab933468-dcb1-47c9-9ef3-23c20827d0c3
+v
+java:S3457d"4Lambda should be used to defer string concatenation.(Ç¶¹h8ó™œƒ2J$afc9167b-5410-40d9-a12f-dcc60818f671
+g
+java:S6905|"Don't use the query "SELECT *".(ùÏÔüÿÿÿÿ8Õ‡ğø€2J$b7d25632-1cd5-4652-8e30-40967ae5c1eb
+b
+java:S6905“"Don't use the query "SELECT *".(ÆÈá$8é‡ğø€2J$1a2e24ee-6a33-4fe6-b262-b45a3bd83823
+s	java:S106¢"+Replace this use of System.out by a logger.(ä¦¾ëşÿÿÿÿ8ë‡ğø€2J$55c10057-7f4b-42d5-ac66-6d13c601f315
+}
+java:S3457¥"4Lambda should be used to defer string concatenation.(Œà‚éûÿÿÿÿ8í‡ğø€2J$63da6265-aaee-4709-8e5b-e4c8a26eeb4b

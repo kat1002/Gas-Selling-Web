@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SWP391_Project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/jakarta.servlet.jsp.jstl-2.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/jakarta.servlet.jsp.jstl-api-2.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/jaxb-api-2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/sqljdbc42.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/jakarta.servlet-api-6.1.0-M2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/fluent-hc-4.5.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/gson-2.8.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/gson-2.10.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/httpclient-4.5.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../libs/httpcore-4.4.9.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SWP391_Project/web/Web" />
+      <element id="javaee-facet-resources" facet="SWP391_Project/web/Web2" />
+    </root>
+  </artifact>
+</component>

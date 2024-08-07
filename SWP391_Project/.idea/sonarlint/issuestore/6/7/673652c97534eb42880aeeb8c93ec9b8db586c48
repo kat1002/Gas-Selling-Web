@@ -1,0 +1,146 @@
+
+i
+java:S2259¬"FA "NullPointerException" could be thrown; "parseInt" is nullable here.(’Õî‰ÿÿÿÿÿ8„¡ı¬‰2
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ç©è¬‰2J$5a349dd2-970b-4c27-98d0-4e1db387b243
+	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8É©è¬‰2J$9ab363f7-f4a3-46ee-af5e-bd1e6bf82a90
+	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ë©è¬‰2J$18a93a9c-4994-43f6-9b08-5b2e0a7dd189
+	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ì©è¬‰2J$ddece617-5391-48f2-8e46-8a01b0e17a40
+	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Í©è¬‰2J$7b71e98c-19b8-46c2-bf05-0663e7c516f7
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ï©è¬‰2J$146074e7-7f9e-4d83-9f8c-f8682e59c5f1
+	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤³ê¬‰2J$3ae8a69a-b0dd-4b93-92e7-dfc16bb39d08
+˜
+java:S1192²"ODefine a constant instead of duplicating this literal "passwordStatus" 3 times.(…—ÊÄıÿÿÿÿ8Õ©è¬‰2J$fa26f13c-93da-4fdf-be82-e2f3dfb56900
+™
+java:S1192±"PDefine a constant instead of duplicating this literal "passwordMessage" 3 times.(âÅÁûÿÿÿÿ8×©è¬‰2J$74a6a190-b195-4d94-a0e4-b1d50b99bc93
+”
+java:S1192¬"KDefine a constant instead of duplicating this literal "postalCode" 3 times.(’Õî‰ÿÿÿÿÿ8×©è¬‰2J$b440fd48-4c7c-48aa-9760-984f3ee6ad86
+
+java:S1192©"IDefine a constant instead of duplicating this literal "password" 3 times.(ÀÜÜü8×©è¬‰2J$a60134b7-d1de-4b6d-b36a-c78770aebf7d
+Š
+java:S11923"GDefine a constant instead of duplicating this literal "action" 4 times.(ƒöÇ–8×©è¬‰2J$74b72493-3239-4187-97f7-fdd7453689ce
+•
+java:S1192d"RDefine a constant instead of duplicating this literal "application/json" 14 times.(ªŞÃı8Ø©è¬‰2J$a2aaf104-8e7f-4dfe-bdb2-e7f8f55f7643
+ˆ
+java:S1192e"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ç›Ï8Ø©è¬‰2J$486a0769-9437-45ae-9fe9-48aba536e0d3
+
+java:S1192¥"JDefine a constant instead of duplicating this literal "firstName" 4 times.(Ğ¶§8Ø©è¬‰2J$6ec6108b-6729-4679-b6d6-9f2e0decf16b
+
+java:S1192¨"LDefine a constant instead of duplicating this literal "phoneNumber" 4 times.(€êÎ8Ø©è¬‰2J$d7c6caf2-2291-4e0e-aebd-e30c7179f75c
+’
+java:S1192š"IDefine a constant instead of duplicating this literal "failure" 11 times.(éĞ·‘şÿÿÿÿ8Ø©è¬‰2J$82377f71-e0ff-4f22-a29d-5ac1711ce2a2
+Œ
+java:S1192˜"HDefine a constant instead of duplicating this literal "success" 9 times.(–•Ø—8Ù©è¬‰2J$05162c9d-73d4-40f7-a5f7-7f1bd4ce3470
+™
+java:S1192†"PDefine a constant instead of duplicating this literal "usernameMessage" 6 times.(»İ«üøÿÿÿÿ8Ù©è¬‰2J$b6764012-1b57-40d4-8d75-d594947c338b
+
+java:S1192Ä"GDefine a constant instead of duplicating this literal "status" 6 times.(Øï¹›ùÿÿÿÿ8Ù©è¬‰2J$17426a61-5a3a-4d84-8838-2a6a5a5d038c
+’
+java:S1192¦"IDefine a constant instead of duplicating this literal "lastName" 4 times.(¢Æ¢ûÿÿÿÿ8Ù©è¬‰2J$efc96430-b57e-4c22-8d94-6a99d118cff0
+Š
+java:S1192Ê"FDefine a constant instead of duplicating this literal "error" 6 times.(¸¤Õ8Ù©è¬‰2J$f07b2711-6ec7-477c-ab9c-2dd469a58bac
+
+java:S1192Ñ"LDefine a constant instead of duplicating this literal "gmailStatus" 7 times.(ÑôÀO8Ù©è¬‰2J$fcb632d9-8070-4916-9182-edafcc6907dc
+•
+java:S1192"LDefine a constant instead of duplicating this literal "phoneStatus" 3 times.(ÂÃ„ıûÿÿÿÿ8Ù©è¬‰2J$69af9a3b-bacb-4f90-8bcf-a4d253a601a0
+Š
+java:S1192Ù"FDefine a constant instead of duplicating this literal "email" 4 times.(»öÃ—8Ú©è¬‰2J$9463c074-d842-4168-a573-caa182454da7
+
+java:S1192€"MDefine a constant instead of duplicating this literal "phoneMessage" 3 times.(¹Ë’8Ú©è¬‰2J$5038869f-a6a5-4e84-8f57-378bf28c7339
+˜
+java:S1192‡"ODefine a constant instead of duplicating this literal "usernameStatus" 6 times.(áÍî„üÿÿÿÿ8Ú©è¬‰2J$eceacf1b-9b9e-48e6-958c-028e2296dd77
+Œ
+java:S1192µ"HDefine a constant instead of duplicating this literal "manager" 3 times.(Ï´í›8Ú©è¬‰2J$53b65023-00db-4369-979a-86aba95355b7
+–
+java:S1192Ğ"MDefine a constant instead of duplicating this literal "gmailMessage" 7 times.(µ¬„øùÿÿÿÿ8Ú©è¬‰2J$13b20a03-e735-4070-8199-fcefa45f7ca1
+‘
+java:S1192Ç"HDefine a constant instead of duplicating this literal "message" 4 times.(Ê¶ıúıÿÿÿÿ8Û©è¬‰2J$7f4c4a4f-54a6-400d-90a5-09a9489185c5
+”
+java:S1192X"LDefine a constant instead of duplicating this literal "rowsPerPage" 4 times.(ÖöÒøÿÿÿÿ8Û©è¬‰2J$0d2fe1d2-b068-498c-99e0-5ad3bf328f35
+
+java:S1192“"IDefine a constant instead of duplicating this literal "username" 4 times.(ı¾ƒÃ8Û©è¬‰2J$2b60a1a9-f75a-4c5c-8b00-b47bf464bed1
+›
+java:S1989/"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×©ëÿÿÿÿÿ8Û©è¬‰2J$d5a02d31-50a1-4813-8cab-b71c125587f4
+m	java:S1065"+Replace this use of System.out by a logger.(·Š´8Û©è¬‰2J$37647196-13d7-4bb0-a8d4-a3bb25af5d5d
+‰
+java:S1989;"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8Û©è¬‰2J$206bc111-b5a6-41e9-8fa8-b2084ffa4549
+´
+java:S1989@"lHandle the following exceptions that could be thrown by "getCustomerDetails": IOException, ServletException.(¦èĞÉûÿÿÿÿ8Û©è¬‰2J$ce07a47f-ee37-44af-8e81-e3ab05ae06ea
+«
+java:S1989D"iHandle the following exceptions that could be thrown by "getAllCustomers": IOException, ServletException.(À…Ï8Û©è¬‰2J$f3cd8e58-6a2e-46cf-956b-6c84e8b99c73
+‰
+java:S1989K"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8Û©è¬‰2J$f2d757ce-dd0d-4395-8f65-66ff9795bc57
+³
+java:S1989P"kHandle the following exceptions that could be thrown by "getManagerDetails": IOException, ServletException.(€ÿÊƒşÿÿÿÿ8Û©è¬‰2J$fc9d39c6-b5a3-4294-8a4f-5502d3bad617
+›
+java:S1130T"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ïßø±ıÿÿÿÿ8š¡ı¬‰2
+ƒ	java:S125h"<This block of commented-out lines of code should be removed.(õëö±øÿÿÿÿ8á©è¬‰2J$547a2330-b8da-40b5-876e-49e55dcd4463
+–
+java:S1130k"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(Ú’í8£¡ı¬‰2
+q
+java:S1172k".Remove this unused method parameter "request".(Ú’í8â©è¬‰2J$0b23c57d-6f7a-41c1-b038-64d012a2cd4e
+Á
+java:S1130w"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(Î¥¨±ûÿÿÿÿ8æ©è¬‰2J$2c795d36-5df8-46ea-b0c7-61a9eb97196e
+—
+java:S1130Œ"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ø—ó¡8«¡ı¬‰2
+„	java:S125"<This block of commented-out lines of code should be removed.(û‰Ë–øÿÿÿÿ8ì©è¬‰2J$ce773ebd-6a47-4b0d-94d4-26860f6cded1
+„	java:S125¤"<This block of commented-out lines of code should be removed.(õëö±øÿÿÿÿ8î©è¬‰2J$fd43277f-6cb5-4b30-be02-4588f642c1aa
+½
+java:S1130§"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(áÔùÕ8ï©è¬‰2J$63efc9eb-ece3-4cf4-88bd-65d7ab96f0bb
+›
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ş³‚”ûÿÿÿÿ8ğ©è¬‰2J$2f7e46ab-b354-48cb-88ce-eaf6ec806a00
+n	java:S106Ê"+Replace this use of System.out by a logger.(Ú¿úû8ñ©è¬‰2J$4e611dfb-e576-4868-b197-7cafa1be2386
+œ
+java:S1989Í"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×©ëÿÿÿÿÿ8ò©è¬‰2J$3ef3e6f7-96d5-451b-8688-e982b918cd23
+n	java:S106Ó"+Replace this use of System.out by a logger.(·Š´8ó©è¬‰2J$3d94f0da-d651-4342-8c6d-c8e4406067b0
+¶
+java:S1989Ö"mHandle the following exceptions that could be thrown by "customerSaveChanges": IOException, ServletException.(“Ü‚àıÿÿÿÿ8ó©è¬‰2J$21625641-09db-4070-bddb-52035b040988
+µ
+java:S1989Ú"lHandle the following exceptions that could be thrown by "managerSaveChanges": IOException, ServletException.(íŠ•Şüÿÿÿÿ8ó©è¬‰2J$b08c7be4-d334-4649-aec7-882ee2e4b621
+°
+java:S1989Ş"lHandle the following exceptions that could be thrown by "checkUsernameValid": IOException, ServletException.(©Ïèã8ô©è¬‰2J$c90458bf-1237-41f8-9d1f-2e5910e4ff25
+°
+java:S1989â"lHandle the following exceptions that could be thrown by "checkUsernameValid": IOException, ServletException.(³úÈÂ8ô©è¬‰2J$d06ec34b-18ad-4a7a-8b74-a2cd5695beeb
+°
+java:S1989æ"lHandle the following exceptions that could be thrown by "checkPasswordValid": IOException, ServletException.(ÇÓûÈ8õ©è¬‰2J$61fcff3b-24ee-4993-aa3f-a1119a4cddfe
+²
+java:S1989ê"iHandle the following exceptions that could be thrown by "checkGmailValid": IOException, ServletException.(ù¢ŸÜùÿÿÿÿ8õ©è¬‰2J$54e4c84c-8fe3-4303-adf7-2a460ac691d6
+²
+java:S1989î"iHandle the following exceptions that could be thrown by "checkGmailValid": IOException, ServletException.(ù¢ŸÜùÿÿÿÿ8ö©è¬‰2J$e6758f52-3f85-4ccd-998f-6ca39a06ac75
+­
+java:S1989ò"iHandle the following exceptions that could be thrown by "checkPhoneValid": IOException, ServletException.(ı«–ÿ8ö©è¬‰2J$2fb32dcc-facc-4358-af52-684979cf3600
+Š
+java:S1989ù"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8÷©è¬‰2J$5390862d-7935-4327-8c58-34031fc08e08
+Š
+java:S1989"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8÷©è¬‰2J$57313b3f-c069-4e92-b765-c414ef383f21
+Š
+java:S1989‰"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8Ë³ê¬‰2J$4fab5022-5072-4e39-93ca-44939e1bd728
+‰
+java:S1854©"@Remove this useless assignment to local variable "receiveEmail".(Ô¤üÿÿÿÿ8å™é¬‰2J$e87ff75c-9c08-458c-b38f-c76c0e32ca52
+œ
+java:S1130¢"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ÉÉÍÚùÿÿÿÿ8¼¡ı¬‰2
+z
+java:S1481©"1Remove this unused "receiveEmail" local variable.(Ô¤üÿÿÿÿ8æ™é¬‰2J$185d1a2c-6ddf-4d9e-b7ff-e4bf20ff3bc4
+„	java:S125¯"<This block of commented-out lines of code should be removed.(çõ¯ÿÿÿÿÿ8ç™é¬‰2J$583a9cd5-af2a-41b8-a93b-acfcb56f17a9
+Â
+java:S1130Ó"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(œıèİÿÿÿÿÿ8é™é¬‰2J$5506255a-70e2-436e-8772-e8c2dfe84f0b
+—
+java:S1130ú"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(×¥ğÅ8Ä¡ı¬‰2
+”
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(©Øûºûÿÿÿÿ8ì™é¬‰2J$f878b2aa-5d44-41e0-9611-9ee8938a7ea0
+Â
+java:S1130§"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(û•ÍÓúÿÿÿÿ8ï™é¬‰2J$121bd1fd-0f16-4a7c-8cb7-d53fad57b7bf
+›
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îìóøøÿÿÿÿ8ğ™é¬‰2J$ee4ef1ec-dd93-4b5d-9673-49a8c89fc6b6
+œ
+java:S1130Á"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(Îìóøøÿÿÿÿ8Ê¡ı¬‰2
+„	java:S125Å"<This block of commented-out lines of code should be removed.(ŸàÃïşÿÿÿÿ8ñ™é¬‰2J$741d40a8-1d65-402f-a9cf-3121362730ad
+”
+java:S1301Ì"KReplace this "switch" statement by "if" statements to increase readability.(©Øûºûÿÿÿÿ8ñ™é¬‰2J$6e76c7ec-76df-460d-88de-24b6bba75e42
+Â
+java:S1130õ"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ÚÛ÷Æùÿÿÿÿ8ô™é¬‰2J$01ab539f-c854-4c2d-b956-318b46036c1a
+„	java:S125ù"<This block of commented-out lines of code should be removed.(Ì¥–íûÿÿÿÿ8ô™é¬‰2J$11be29f4-3a01-42f6-9372-4fbb3fc00ba6
+œ
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ºêß¹ùÿÿÿÿ8Ó¡ı¬‰2
+„	java:S125¡"<This block of commented-out lines of code should be removed.(¦”ûùÿÿÿÿ8÷™é¬‰2J$b48a9d58-8316-4923-bcaf-c619baaf76fe
+½
+java:S1130±"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ŸÿîÒ8ø™é¬‰2J$dd6197b2-019c-4f91-93c7-055bca4574fa

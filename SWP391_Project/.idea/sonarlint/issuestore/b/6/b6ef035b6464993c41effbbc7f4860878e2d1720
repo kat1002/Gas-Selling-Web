@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóıÿÿÿÿ8ÎïÜ”ƒ2J$9c602e77-dc1e-46a3-ab97-7947655d73ad
+“
+java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8üèë™ƒ2J$87413905-8152-4354-b177-4576c55bccb0
+’
+java:S2095e"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8üèë™ƒ2J$7932a388-21af-4858-90cc-8eb43d23c63d
+m
+java:S2095Ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‡ó´§8œĞ½¬‰2
+“
+java:S2095ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹ó½8üèë™ƒ2J$792cb8f3-d580-4d15-8be7-ee45fd5394d5
+‹
+java:S3252'"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(Â‡·ğ8µêˆœƒ2J$9d868baa-c5f5-4721-b7db-766604d83179
+c
+java:S6905…"Don't use the query "SELECT *".(öúÿ‘8éë™ƒ2J$4e14bca4-10d2-4afc-961e-fc0484096940
+x
+java:S1481ë"/Remove this unused "serviceTag" local variable.(®Ç‰÷ÿÿÿÿÿ8˜éë™ƒ2J$03e11bd2-5fe7-47fe-b89f-db939b51a31e
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÒÄ‹œƒ2J$c2ddbac8-a6e0-4380-98c3-4d7869c9cf4f

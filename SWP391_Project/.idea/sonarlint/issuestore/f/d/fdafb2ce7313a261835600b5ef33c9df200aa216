@@ -1,0 +1,16 @@
+
+p
+java:S1989@"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ã­éÒ8—ñƒ2
+]	java:S125C"<This block of commented-out lines of code should be removed.(ƒš¢èúÿÿÿÿ8§—ñƒ2
+ƒ
+java:S1989H"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(á¾“›øÿÿÿÿ8­—ñƒ2
+Y
+java:S1128	">Remove this unused import 'jakarta.servlet.RequestDispatcher'.(•Üè•ıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+R
+java:S1128"=Remove this unused import 'jakarta.servlet.http.HttpSession'.(Çê°
+J
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš

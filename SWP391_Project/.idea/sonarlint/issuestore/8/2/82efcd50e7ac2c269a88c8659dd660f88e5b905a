@@ -1,0 +1,8 @@
+
+†,Web:MouseEventWithoutKeyboardEquivalentCheck£"AAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <img> tag.(ŞâŸşÿÿÿÿ8ÕÕàˆƒ2
+t	Web:S6847£"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(ŞâŸşÿÿÿÿ8ÕÕàˆƒ2
+PWeb:AvoidCommentedOutCodeCheck¤"Remove this commented out code.(•şæ8ÕÕàˆƒ2
+OWeb:ImgWithoutAltCheck©"%Add an "alt" attribute to this image.(Ñ¯™Æ8ÕÕàˆƒ2
+VWeb:AvoidCommentedOutCodeCheck«"Remove this commented out code.(×°©”øÿÿÿÿ8ÕÕàˆƒ2
+‰,Web:MouseEventWithoutKeyboardEquivalentCheckŞ"DAdd a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <button> tag.(ˆÜ¥øÿÿÿÿÿ8ÕÕàˆƒ2
+	Web:S6822Ş"nThe element button has an implicit role of button. Definig this explicitly is redundant and should be avoided.(ˆÜ¥øÿÿÿÿÿ8ÕÕàˆƒ2

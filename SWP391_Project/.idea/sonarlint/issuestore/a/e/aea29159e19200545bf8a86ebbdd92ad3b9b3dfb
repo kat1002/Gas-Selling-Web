@@ -1,0 +1,21 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(›ÑÇ“şÿÿÿÿ8ÖÙıÿ1J$d3499511-ba9e-4565-ba9b-0887c7beb915
+ƒ	java:S125+"<This block of commented-out lines of code should be removed.(‹£ãÃûÿÿÿÿ8ÖÙıÿ1J$e8601ab3-71f1-4126-94d9-5201598f2965
+r
+java:S11724"/Remove this unused method parameter "response".(·£ƒ8×Ùıÿ1J$1dfbaccd-3b75-4118-8529-ef4346b5c5f1
+~	java:S125="<This block of commented-out lines of code should be removed.(º¾û€8şÙô€€2J$ae8f2fb4-2c93-4969-9eb3-dd1ede5cb08a
+•
+java:S2441@"MMake "List" and its parameters serializable or don't store it in the session.(ãñóÂøÿÿÿÿ8äÙıÿ1J$4f06bdfc-8d36-4742-b5ad-4b836eae8716
+•
+java:S2441A"MMake "List" and its parameters serializable or don't store it in the session.(ƒ‹úûÿÿÿÿ8äÙıÿ1J$86182aa3-7369-410d-96ab-9f012e1a2af5
+
+java:S2441B"MMake "List" and its parameters serializable or don't store it in the session.(ôÃ§8äÙıÿ1J$e53f40ff-7e7a-4adb-9bc3-f3f161961c97
+•
+java:S2441C"MMake "List" and its parameters serializable or don't store it in the session.(ôƒ®øÿÿÿÿ8äÙıÿ1J$a319bceb-0427-4fc5-a0de-e56854d343be
+q
+java:S1128
+".Remove this unused import 'com.model.Product'.(Äÿñ8àŠù€€2J$31b2c8d5-1887-4895-8675-94b23ef8ffd6
+v
+java:S1128"3Remove this unused import 'com.utils.EmailHandler'.(ôñ¯ı8«—€2J$fe063f2e-0bc8-4271-b3fa-f93b939f0c28
+s
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8àŠù€€2J$8776e7b8-947e-47a8-9716-636a28aeb9de

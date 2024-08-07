@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì ÆóýÿÿÿÿJ$b9bcaae4-f54d-41c2-a77e-411dc297b321
+}
+java:S1192j"`Define a constant instead of duplicating this literal "Error closing PreparedStatement" 3 times.(Â‰ˆþ8ÂÊ¶¬€2
+r	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ñ­÷ýÿÿÿÿ8ÃÊ¶¬€2
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯ûïñ8ÃÊ¶¬€2
+O
+java:S3416"-Update this logger to use "VoucherDAO.class".(‘Ñ­÷ýÿÿÿÿ8ÃÊ¶¬€2
+A
+java:S6905D"Don't use the query "SELECT *".(ê¦ì·úÿÿÿÿ8ÉÊ¶¬€2
+<
+java:S6905x"Don't use the query "SELECT *".(£ñËŽ8ÌÊ¶¬€2

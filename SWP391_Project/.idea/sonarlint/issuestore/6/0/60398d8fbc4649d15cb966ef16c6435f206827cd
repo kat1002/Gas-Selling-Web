@@ -1,0 +1,7 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÀ½’8êÇ¶¬€2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì ÆóýÿÿÿÿJ$5e662069-c3bd-424e-929f-7e69db9aa448
+<
+java:S6905 "Don't use the query "SELECT *".(§œÕ«8ïÇ¶¬€2
+w	java:S125T"<This block of commented-out lines of code should be removed.(µþ“ˆJ$edebd204-deba-4232-a80f-c4769ecb0d71
+|	java:S125l"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿJ$84d52d18-4065-470d-b875-9f8b0d27b8ff

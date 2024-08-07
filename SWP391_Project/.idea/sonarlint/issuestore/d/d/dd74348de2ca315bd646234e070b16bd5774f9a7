@@ -1,0 +1,31 @@
+
+«
+java:S1488="cImmediately return this expression instead of assigning it to the temporary variable "accessToken".(ßêè‘ÿÿÿÿÿ8 ÁÙ°ÿ1J$44620f36-5da5-4fbe-a30d-3d70c9ddb222
+¥
+java:S1488E"bImmediately return this expression instead of assigning it to the temporary variable "googlePojo".(–î‘¡8¡ÁÙ°ÿ1J$1395cd3d-8680-4ebe-9cc5-197d9beb3c5e
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢ÁÙ°ÿ1J$20093bd4-5793-43ce-9f96-9b3bc8733775
+	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢ÁÙ°ÿ1J$e007e852-b721-46eb-b678-81330daf9a61
+Á
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ğâ‘ìùÿÿÿÿ8Òì½¼€2J$0eb2df45-8daa-44d3-ac9f-98d365b25c19
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷×¼íùÿÿÿÿ8üÜ³­€2J$dc8b2b99-e817-4d7d-ab8a-c25660a94f45
+†
+java:S2441.">Make "Customer" serializable or don't store it in the session.(Æµú øÿÿÿÿ8¬ÁÙ°ÿ1J$403ce219-d20c-4a03-bd3e-0d1685f24e6f
+X	java:S125("<This block of commented-out lines of code should be removed.(êğ¾‹8Ş‚æ½€2
+~	java:S125/"<This block of commented-out lines of code should be removed.(º½©Ó8‹Æâƒ€2J$2c1c1f1e-4631-4908-a9e5-338c2f09f46a
+Í
+java:S11304"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ßÌË8®ÁÙ°ÿ1J$bc036b9c-8b3a-4da1-86cd-70ed9987ad54
+
+java:S5361="HReplace this call to "replaceAll()" by a call to the "replace()" method.(ßêè‘ÿÿÿÿÿ8³ÁÙ°ÿ1J$e4fd3d37-0970-4544-a103-1ac108c012e6
+Ò
+java:S1130A"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(Í© œûÿÿÿÿ8´ÁÙ°ÿ1J$67adb81b-b410-41fa-9c9e-191cced35eb1
+~	java:S125D"<This block of commented-out lines of code should be removed.(å…ö8ìÁãƒ€2J$43a69a04-c560-4f20-ac71-dfeda1bb47bb
+‰
+java:S1989P"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8·ÁÙ°ÿ1J$1ea86ee9-ca09-4dd3-9ed3-f6a532bb38bd
+‰
+java:S1989Z"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8¸ÁÙ°ÿ1J$d616a9bd-19b7-42a7-a33a-e997e98a1f53
+P
+java:S1128"3Remove this unused import 'com.utils.EmailHandler'.(ôñ¯ı8ï‚æ½€2
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8ÿì½¼€2J$960a7de8-ba2c-4806-8bd7-5865acc7876c
+x
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÿì½¼€2J$5750e42c-3e37-4f0f-983e-16f435532fb3

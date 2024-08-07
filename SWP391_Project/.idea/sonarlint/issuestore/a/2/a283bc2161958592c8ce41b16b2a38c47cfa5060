@@ -1,0 +1,16 @@
+
+™
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(ıØÕá8Ò®¬€2J$83084e47-34cc-4afd-ae14-bd71109e832f
+s
+java:S1444"0Make this "public static connection" field final(ıØÕá8Ò®¬€2J$9ce38b79-4f2f-498c-b173-3ae6bc885c8e
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Êğ¨üÿÿÿÿ8Ó®¬€2J$e5b30880-dfc4-4f2b-8313-2b585dc7f5ea
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Åáççúÿÿÿÿ8Ó®¬€2J$a86d85fb-e260-4485-b7de-823e29ab5d15
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÊÆ¦ãøÿÿÿÿ8Ó®¬€2J$02b507b3-1618-4cae-9395-091f4191b4fd
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¢Éß8Ó®¬€2J$353105c0-838a-426d-bf6c-f23fee9b0787
+`
+java:S1118"Hide this public constructor.(£¢Éß8Ô®¬€2J$d199ba87-0ee9-40d8-b4a8-a88d19173f6f
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿ8‰·¬€2J$48155bf1-328e-429f-b4f4-b97671ccf267
+y
+java:S6437 "6Revoke and change this password, as it is compromised.(şÃÏ§8Ö®¬€2J$1b3de034-6888-422d-9ce1-206667fa441f

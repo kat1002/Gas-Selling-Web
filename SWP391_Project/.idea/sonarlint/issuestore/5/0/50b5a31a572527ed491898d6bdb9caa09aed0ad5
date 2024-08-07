@@ -1,0 +1,27 @@
+
+
+java:S1104"VMake productDAO a static final constant or non-public and provide accessors if needed.(‰êâÑúÿÿÿÿ8ö­¡šƒ2J$bda4d7ac-ef1a-4946-90c0-012ef7d48862
+Ÿ
+java:S1104"WMake categoryDAO a static final constant or non-public and provide accessors if needed.(§İÌëÿÿÿÿÿ8ö­¡šƒ2J$fd40f5b0-850f-4f36-9c00-28d2fcb554e6
+š
+java:S1104"WMake customerDAO a static final constant or non-public and provide accessors if needed.(Ãî‘¿8ö­¡šƒ2J$ac32ed72-9160-4c15-b74c-d30b21092a89
+•
+java:S1104"SMake cartDAO a static final constant or non-public and provide accessors if needed.(¤İ…"8ö­¡šƒ2J$f228b426-08b0-43fe-92e2-ea31f1926e68
+š
+java:S1104"WMake cartItemDAO a static final constant or non-public and provide accessors if needed.(¬ç»Â8ö­¡šƒ2J$1c516304-8f4a-4b55-b36f-8e73b02c42e0
+™
+java:S1104"VMake managerDAO a static final constant or non-public and provide accessors if needed.(­ª» 8÷­¡šƒ2J$5c730086-6447-45b0-8203-92cd2cf54fea
+œ
+java:S1104"TMake orderDAO a static final constant or non-public and provide accessors if needed.(½ÀËúÿÿÿÿ8÷­¡šƒ2J$06155e56-cb20-4039-8f47-624dfc0efb33
+›
+java:S1104"XMake orderItemDAO a static final constant or non-public and provide accessors if needed.(şÅ×–8÷­¡šƒ2J$cc4c3bbc-d880-487a-80e8-6cff79188686
+t
+java:S1104"WMake discountDAO a static final constant or non-public and provide accessors if needed.(Æ’ô«8š¶éêˆ2
+
+java:S1104"bMake productSerialNumberDAO a static final constant or non-public and provide accessors if needed.(ñª§²8š¶éêˆ2
+p
+java:S1104"SMake rateDAO a static final constant or non-public and provide accessors if needed.(Õ°´8›¶éêˆ2
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¹¤‘şÿÿÿÿ8ú­¡šƒ2J$d11e6696-35c4-4f33-98d9-09cc0bab26d3
+t
+java:S1128",Remove this unused import 'com.model.Order'.(æ¢ğïÿÿÿÿÿ8Šš šƒ2J$6030dfdf-752c-4e60-b79d-9d72fca60e27

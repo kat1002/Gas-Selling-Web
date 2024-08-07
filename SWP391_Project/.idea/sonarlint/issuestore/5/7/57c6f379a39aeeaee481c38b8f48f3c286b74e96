@@ -1,0 +1,47 @@
+
+™	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ççøÿÿÿÿ8åö¼€2J$4c9d6c05-f57a-4a4d-aec6-78db80daf429
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóıÿÿÿÿ8£Ú÷¬€2J$a2c51754-61f2-4444-918c-3b349de0baf1
+¦
+java:S1488˜"bImmediately return this expression instead of assigning it to the temporary variable "rowDeleted".(ïşæ£8éö¼€2J$8b15c11c-d90a-4835-9a39-2a9405bc900d
+¦
+java:S1488¼"bImmediately return this expression instead of assigning it to the temporary variable "rowUpdated".(İƒàÂ8éö¼€2J$bd45b2b0-2188-47a9-b9e3-29717c2d41bf
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8íö¼€2J$2ba4b056-547e-4c9f-8e13-d7fd5e9d4881
+	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$dfc6df5e-d556-4dee-a0b4-678ff2109ff5
+	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$52b7dd47-461f-468e-9e41-8fe1adfe344f
+	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$96adedde-2521-4c17-bde3-8babc2a74340
+	java:S112è"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$78ece3aa-0057-4697-ac62-a4856c508be9
+	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$7562b4c2-e1bf-439f-9ad5-98bd6134d56c
+	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$526b1eeb-9f3a-443d-96d1-39a1d3b3fc5f
+	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$2ba19c1d-94ee-407e-90fb-046885344cba
+	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8îö¼€2J$3f98ef36-fbb2-4cb0-9bc4-400ee465a974
+
+java:S1192Y"KDefine a constant instead of duplicating this literal "product_id" 7 times.(İ€â³8ïö¼€2J$f23afdce-37c3-4795-9003-43d575fcbf73
+
+java:S1192Ÿ"LDefine a constant instead of duplicating this literal "SELECT TOP " 4 times.(äªáè8ïö¼€2J$de7ee67e-83fc-4d2a-baab-dd32c1de8f92
+’
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ğö¼€2J$ec2aa3e6-488c-4841-9659-f9ed316f0443
+“
+java:S2095Ô"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ğö¼€2J$65a89b8d-af74-40f0-b68f-698df85f87f4
+“
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ğö¼€2J$4c2f619c-329f-45fe-9ae2-218da68a3ae5
+Š
+java:S2095v"GUse try-with-resources or close this "Statement" in a "finally" clause.(£í’á8ğö¼€2J$1e5799f5-f533-4a20-9053-e02ee7dc5669
+“
+java:S2095õ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ñö¼€2J$0c4cda65-f5d5-4fed-a89e-142d864dbf7d
+“
+java:S2095Â"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ğö¼€2J$c9295c32-a6fa-4729-aa23-c72c0eeb4cb4
+˜
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(£Šèøÿÿÿÿ8ğö¼€2J$2d488894-bd6f-4775-8f1a-a737043284cd
+“
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8ğö¼€2J$d3a88fa4-9486-4ddd-8c7e-66c16ab18c7b
+˜	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ñ­÷ıÿÿÿÿ8òö¼€2J$dd041b8a-13fd-4412-92e2-232ac55e2670
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡¾–Ş8òö¼€2J$6f3ee450-0486-47ea-a45d-ad1518417284
+m	java:S106Y"+Replace this use of System.out by a logger.(İ€â³8‰÷¼€2J$b83f3a9d-49f9-4a3e-9164-d5981db5bd42
+b
+java:S6905Ó"Don't use the query "SELECT *".(ú¿³!8—÷¼€2J$bd1fad15-26cc-4200-bd23-ac71c46fb212
+„	java:S125ò"<This block of commented-out lines of code should be removed.(•¸êĞıÿÿÿÿ8›÷¼€2J$05438809-34be-4f54-94b7-6e0d11c80b68
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8¦÷¼€2J$bed1def8-9a28-4e43-ab5b-290d7c3ffb63
+r
+java:S1068"*Remove this unused "LOGGER" private field.(‘Ñ­÷ıÿÿÿÿ8§÷¼€2J$4db406cd-2d28-4b15-8319-b8d3907114d0

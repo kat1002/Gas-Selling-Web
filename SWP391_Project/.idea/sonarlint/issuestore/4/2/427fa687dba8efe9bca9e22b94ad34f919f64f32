@@ -1,0 +1,33 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì Æóıÿÿÿÿ8ˆ¿¬«‰2J$4d07d727-b4fe-49fd-bc4a-a356b8b8e7e4
+”
+java:S1192ƒ"KDefine a constant instead of duplicating this literal "manager_id" 7 times.(ŸÑ™ÿúÿÿÿÿ8¿¬«‰2J$5f17747c-9458-409a-9c55-cbbe3e00094e
+”
+java:S1192Ÿ"KDefine a constant instead of duplicating this literal "first_name" 5 times.(Ò°®†şÿÿÿÿ8¿¬«‰2J$390a8bf0-fcda-41af-9c44-08b1f91a1cde
+Š
+java:S1192"FDefine a constant instead of duplicating this literal "email" 6 times.(ø©ôÊ8¿¬«‰2J$bbdcf9e5-2b84-4a66-99ba-838fdf419105
+ 
+java:S1192ƒ"\Define a constant instead of duplicating this literal " OFFSET ? ROWS FETCH FIRST " 4 times.(õŞŠÜ8¿¬«‰2J$48a2e449-4093-436f-a8b1-32ae930bb80c
+
+java:S1192ƒ"KDefine a constant instead of duplicating this literal " ROWS ONLY" 4 times.(õŞŠÜ8¿¬«‰2J$be542183-4a7e-4850-bfa2-f33882aea893
+’
+java:S1192œ"IDefine a constant instead of duplicating this literal "username" 6 times.(ƒ‚¹¿ıÿÿÿÿ8¿¬«‰2J$ae4f2f88-9a52-46e4-8b16-16cb5dfef881
+’
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÀœ¢8ŒÀµ«‰2J$7c6a9558-9f09-4dee-a753-e026a6ce0cbf
+g
+java:S69059"Don't use the query "SELECT *".(Ö¬äşúÿÿÿÿ8œ¿¬«‰2J$aa9c7f6b-2e83-4ed9-9887-99c4b03775af
+b
+java:S6905j"Don't use the query "SELECT *".(«À÷Ô8›¿¬«‰2J$f86b2ec9-9c2d-4880-8aa0-cade72480d78
+g
+java:S6905~"Don't use the query "SELECT *".(Ö¬äşúÿÿÿÿ8ßø¬«‰2J$ef244e18-ca9d-4073-8c68-3815199d9c8d
+b
+java:S6905–"Don't use the query "SELECT *".(¨çÓ
+8Ÿ¿¬«‰2J$92dc9987-9838-447f-9dc2-a69267061216
+q	java:S108")Either remove or fill this block of code.(˜ ÿÿÿÿÿÿ8ª¿¬«‰2J$99941322-99a9-41c6-8766-d078b140af62
+n	java:S106Œ"+Replace this use of System.out by a logger.(Â–‘ö8ª¿¬«‰2J$e61d5c67-13e8-44bc-a381-c5b41f758834
+x
+java:S2695‘"/This "PreparedStatement" only has 1 parameters.(üØ¯ıÿÿÿÿ8«¿¬«‰2J$101fc11b-9a73-40d2-817b-5ab0c6d939cb
+{
+java:S6126§"2Replace this String concatenation with Text block.(™ßòˆşÿÿÿÿ8­¿¬«‰2J$e22bdcba-1c71-4346-beee-78b18fbed961
+q
+java:S1128"/Remove this unused import 'com.model.Customer'.(şúS8¤Àµ«‰2J$7978b4b4-be82-4cae-9d70-b3cfeb9dd25c

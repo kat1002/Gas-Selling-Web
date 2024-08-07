@@ -1,0 +1,37 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤‰£²8ÆŠğø€2
+h	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ËŠğø€2
+h	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ËŠğø€2
+c
+java:S1192C"FDefine a constant instead of duplicating this literal "gmail" 3 times.(ßÔ¦Ù8¼’ò‚2
+k
+java:S1192F"IDefine a constant instead of duplicating this literal "loginerr" 3 times.(Àƒæ¾øÿÿÿÿ8ËŠğø€2
+l
+java:S11928"ODefine a constant instead of duplicating this literal "user_login.jsp" 6 times.(“Ì…î8ËŠğø€2
+k
+java:S11921"IDefine a constant instead of duplicating this literal "password" 5 times.(ì—ë½şÿÿÿÿ8ÌŠğø€2
+f
+java:S1192."IDefine a constant instead of duplicating this literal "username" 6 times.(İæ÷8ÌŠğø€2
+~
+java:S19898"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(“Ì…î8ÕŠğø€2
+V
+java:S1854C"9Remove this useless assignment to local variable "gmail".(ßÔ¦Ù8ÖŠğø€2
+L	java:S106?"+Replace this use of System.out by a logger.(ø¥¨üøÿÿÿÿ8ØŠğø€2
+G
+java:S1481C"*Remove this unused "gmail" local variable.(ßÔ¦Ù8ÙŠğø€2
+X	java:S125K"<This block of commented-out lines of code should be removed.(¢Ï­8ÚŠğø€2
+`
+java:S2441Z">Make "Customer" serializable or don't store it in the session.(ŠË¸ùÿÿÿÿ8ÜŠğø€2
+X	java:S125["<This block of commented-out lines of code should be removed.(İÏê³8İŠğø€2
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÑÅ”Å8äŠğø€2
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ñä±×8Ï’ò‚2
+^	java:S125š"<This block of commented-out lines of code should be removed.(šÊíãøÿÿÿÿ8Ğ’ò‚2
+
+java:S1989®"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(áò‰øÿÿÿÿ8çŠğø€2
+d
+java:S1989´"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8èŠğø€2
+d
+java:S1989º"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8êŠğø€2
+—
+java:S1989½"SHandle the following exception that could be thrown by "sendRedirect": IOException.(’¼ß8¯úˆ¯ÿ1J$7c947146-84b9-4a1f-8897-57488c69959b
+	java:S125Â"<This block of commented-out lines of code should be removed.(Ã­€ú8°úˆ¯ÿ1J$afc94318-2dbc-47c6-b875-4e8199d810d5

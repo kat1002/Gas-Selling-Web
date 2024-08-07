@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆü“¥ùÿÿÿÿ8‡È¶¬€2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì ÆóıÿÿÿÿJ$0b51b8b3-5b82-4a43-af1e-61c91d9e0fe4
+N
+java:S3416",Update this logger to use "footerDAO.class".(•†Çûÿÿÿÿ8‰È¶¬€2
+<
+java:S6905 "Don't use the query "SELECT *".(²í¡ì8ŒÈ¶¬€2
+;
+java:S6905@"Don't use the query "SELECT *".(º…8È¶¬€2
+e	java:S106^"+Replace this use of System.out by a logger.(ÓŒÑJ$a341d2c0-f6b1-4015-9cae-12d8139e4dcd
+r
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ÃØ¯¬€2J$e8421ed7-8dfa-4bd9-b2f6-b4844ee55d74

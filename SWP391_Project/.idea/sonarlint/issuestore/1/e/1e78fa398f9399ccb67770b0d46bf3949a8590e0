@@ -1,0 +1,26 @@
+
+–
+java:S19891"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¡ëÃ8Ñö»Šƒ2J$7c6445b1-32bf-4b32-b317-b8e3426126d6
+£
+java:S19895"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(üí8Ğ¡½Šƒ2J$31eef5cf-a372-4e2f-9fab-2ecb6335773b
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(¶‚èÁùÿÿÿÿ8Ñö»Šƒ2J$42b68f3a-6c9b-4302-89f4-f15f50fd6f77
+~
+java:S1128"6Remove this unused import 'com.controller.WebManager'.(Ôë«éúÿÿÿÿ8Ñö»Šƒ2J$2cf2deaf-4bc1-4946-ac51-485bcb411c7e
+n
+java:S1128"+Remove this unused import 'com.model.Cart'.(ŒºÈà8Ñö»Šƒ2J$2b5ff9ed-e08b-4e25-9949-f87a5ca54544
+w
+java:S1128	"/Remove this unused import 'com.model.CartItem'.(Î±ËÔøÿÿÿÿ8Ñö»Šƒ2J$84d0f82b-efa8-4dde-a7a8-ae5dd7525b34
+q
+java:S1128".Remove this unused import 'com.model.Product'.(Äÿñ8Ñö»Šƒ2J$29ad983a-3a26-4354-a433-7895be6eaa2f
+s
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8Áæ½Šƒ2J$ab76a2d8-56ee-416b-97c1-b0eddd6d1395
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ñö»Šƒ2J$51eb8f28-187e-4a76-b2b1-d382db52dffa
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ñö»Šƒ2J$cd57a9e0-bcfb-451d-8c11-c6f90ef208db
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ñö»Šƒ2J$0854a85a-b8cf-4a52-b3aa-0a1705850b39
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8Òö»Šƒ2J$0ebcb542-25fb-4f7d-a54d-3116c3e3999f
+x
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8Òö»Šƒ2J$258e5c7d-957c-4a45-9d6c-cdb45d27b9a5

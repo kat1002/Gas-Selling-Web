@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì ÆóıÿÿÿÿJ$22a0bbe8-013e-45b1-9600-0a4b53c9c2dd
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–Ÿïüÿÿÿÿ8Ñ€«€2J$e0f23c50-97eb-4083-ab1f-4e6d21256020
+g
+java:S6905B"Don't use the query "SELECT *".(Ê„¤Œùÿÿÿÿ8§ÿ‚«€2J$2fa2a3dc-48f9-4a1b-bbee-87f5c3d84d54
+g
+java:S6905e"Don't use the query "SELECT *".(Ú­ØÛúÿÿÿÿ8ééƒ«€2J$34628888-9b9a-46b6-a361-a22a0cf90164
+a
+java:S1128"%Remove this unused import 'java.sql'.(´İ…ÅJ$e90291a9-6f3d-4b70-9caf-2d29cf30283d
+Z
+java:S1128"Remove this duplicated import.(÷‰îƒJ$c253cf3a-8d03-4656-96da-ac51c901ec83
+_
+java:S1128"Remove this duplicated import.(Õë±ÄøÿÿÿÿJ$0823ef09-69e5-4274-aebf-e7348220d49c

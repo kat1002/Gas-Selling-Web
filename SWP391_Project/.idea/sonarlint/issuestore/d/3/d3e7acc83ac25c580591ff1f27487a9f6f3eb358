@@ -1,0 +1,16 @@
+
+
+java:S1192&"LDefine a constant instead of duplicating this literal "profile.jsp" 4 times.(§âû8É¿î„ƒ2J$71032023-5cb5-4d36-812e-094abd008e8a
+¤
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(§âû8Ë¿î„ƒ2J$696082b8-3a3d-4c11-93ab-89511775b7f7
+w
+java:S1172)"/Remove this unused method parameter "response".(ÅÁö•úÿÿÿÿ8Ì¿î„ƒ2J$6fa6bf15-aa0d-4bd8-86f9-c5ccd7fa804f
+m	java:S106>"+Replace this use of System.out by a logger.(Ø¥ãû8Í¿î„ƒ2J$fad6536d-15fe-4218-90a0-708365287d13
+r	java:S106@"+Replace this use of System.out by a logger.(×¹ßÌùÿÿÿÿ8Í¿î„ƒ2J$586f4b1a-3682-4c01-bf5c-f60f61e5d43f
+r	java:S106J"+Replace this use of System.out by a logger.(Å¼ûÓÿÿÿÿÿ8Í¿î„ƒ2J$ac007496-5782-4355-ae67-ba58fba44f15
+m	java:S106K"+Replace this use of System.out by a logger.(§ÄÞê8Í¿î„ƒ2J$2cc8ead8-60a4-4be1-89a8-46cfd7e5df8b
+r	java:S106L"+Replace this use of System.out by a logger.(¯Šéøøÿÿÿÿ8Í¿î„ƒ2J$b85458c7-e2c4-45c5-b053-47b407b89622
+†
+java:S2441Z">Make "Customer" serializable or don't store it in the session.(‡ã¤—øÿÿÿÿ8Î¿î„ƒ2J$21ea8f03-9f15-4c13-b25d-b6355c1bd721
+–
+java:S1989i"SHandle the following exception that could be thrown by "sendRedirect": IOException.(–åƒ®8Î¿î„ƒ2J$8cfb6d0c-850a-43a8-8270-3337ff925df2
